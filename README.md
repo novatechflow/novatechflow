@@ -14,9 +14,11 @@ I have written about this work on **[novatechflow.com](https://www.novatechflow.
 
 - **[KafScale](https://kafscale.io/)**: Kafka-compatible streaming that keeps your data in S3. Code: [KafScale/platform](https://github.com/KafScale/platform). Background: [KafScale on novatechflow](https://www.novatechflow.com/p/kafscale.html)
 - **[Lascaris](https://www.scalytics.io/lascaris)**: a sovereign AI agent platform on Kafka. Agents act on live data, and every decision is written to an audit log.
-- **[KafClaw](https://github.com/KafClaw/KafClaw)**: an agent coordination framework for Kafka, written in Go
+- **[KafClaw](https://github.com/KafClaw/KafClaw)**: an agent coordination framework for Kafka, written in Go. Docs: [kafclaw.scalytics.io](https://kafclaw.scalytics.io/)
 - **[infinimesh](https://infinimesh.org/)**: an open source IoT platform with a device registry, device shadow and MQTT bridge. Code: [infinimesh/core](https://github.com/infinimesh/core). Read the [infinimesh 3.4 release notes](https://www.novatechflow.com/2026/10/infinimesh-34-device-layer.html)
 - **[Apache Wayang](https://wayang.apache.org/)**: cross-platform data processing at the Apache Software Foundation
+
+More open source from the Scalytics team: [KafGraph](https://github.com/scalytics/KafGraph) (shared knowledge graph for agents), [kafSIEM](https://github.com/scalytics/kafSIEM) (entity graph over Kafka and OSINT feeds), [kshark-core](https://github.com/scalytics/kshark-core) (Kafka connectivity diagnostics that agents can use to debug clusters), [kaf-mirror](https://github.com/scalytics/kaf-mirror) (Kafka replication) and [Scalytics Copilot](https://github.com/scalytics/ScalyticsCopilot) (private AI inference). All of them are listed at [scalytics.io/open-source](https://www.scalytics.io/open-source).
 
 ## Tools in this account
 
