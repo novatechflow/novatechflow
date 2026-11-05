@@ -35,6 +35,9 @@ More open source from the Scalytics team: [KafGraph](https://github.com/scalytic
 
 The older repos (Hive, Impala, Solr, FreeIPA, NiFi, OpenStack, from 2013 to 2016) are snippets from my Hadoop years. Most of them link to the matching post on the blog.
 
+- [kafSIEM, an open source Kafka SIEM](https://www.novatechflow.com/2026/10/kafsiem-open-source-kafka-siem-for-air.html) and [Find duplicate Kafka messages with kaf-inspect](https://www.novatechflow.com/2026/10/find-duplicate-kafka-messages-and-check.html)
+
+
 ## Work with me
 
 I help teams with streaming, IoT and AI agent architecture, from design to production. See [consulting](https://www.novatechflow.com/p/consulting-services.html) or [book a call](https://cal.com/alexanderalten).
